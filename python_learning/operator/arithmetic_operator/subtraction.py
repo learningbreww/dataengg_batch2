@@ -1,0 +1,5 @@
+balance_amount=10000
+withdra_amount=5000
+
+balance_in_acc=balance_amount-withdra_amount
+print(balance_in_acc)
